@@ -174,5 +174,5 @@ async function kuis() {
 mulai();
 
 async function bukaWa() {
-  window.location = `https://wa.me/+6281543270363?text=ihhh lucunya ${nama}`;
+  window.location = `https://wa.me/+6281543270363?text=ihhh lucunya ${call}`;
 }
