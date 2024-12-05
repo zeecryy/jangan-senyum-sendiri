@@ -168,11 +168,11 @@ async function kuis() {
   showDiv();
   text = `Coba ${nama} eja kata menu pake bahasa inggris "Me-N-U, hehehehe"`;
   text2 = `Jangan kluar dulu nnti ada foto diatas!, orangnya cakep loh hehehehe`;
-  text3 = `Cakep kan pacarku heheh. i love u ay syg 😘`;
+  text3 = `Cakep kan? hehe`;
   ketik();
 }
 mulai();
 
 async function bukaWa() {
-  window.location = `https://wa.me/+6281543270363?text=i love u ay sygg 😘`;
+  window.location = `https://wa.me/+6281543270363?text=ihhh lucunya ${nama}`;
 }
